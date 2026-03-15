@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Junior at Richfield High School, passionate about building things that matter.<br>💻 Good in HTML/CSS/JS, Java & Python — currently diving deep into Rust, C/C++ & GDScript.<br>🚀 Top 20 Finalist in the Tim Draper HS Utah Entrepreneur Challenge with StudySensei, an adaptive AI study app.<br>🏆 NCWIT Aspirations in Computing High School Award recipient.<br>🛠️ Running IT operations for local businesses under Kotter Data LLC.<br>🦀 I believe Rust is the future — and I'm here for it.
+🎓 Junior at Richfield High School, passionate about building things that matter.<br>💻 Good in HTML/CSS/JS, Java & Python - currently diving deep into Rust, C/C++ & GDScript.<br>🚀 Top 20 Finalist in the Tim Draper HS Utah Entrepreneur Challenge with StudySensei, an adaptive AI study app.<br>🏆 NCWIT Aspirations in Computing High School Award recipient.<br>🛠️ Running IT operations for local businesses under Kotter Data LLC.<br>🦀 I believe Rust is the future and I'm here for it.
 
 
 ## 🌐 Socials:
